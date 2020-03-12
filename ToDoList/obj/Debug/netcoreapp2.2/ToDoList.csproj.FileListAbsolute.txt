@@ -40,7 +40,6 @@ C:\Users\Kristina\desktop\To-Do-List-2.Solution\ToDoList\obj\Debug\netcoreapp2.2
 C:\Users\Kristina\desktop\To-Do-List-2.Solution\ToDoList\obj\Debug\netcoreapp2.2\ToDoList.TagHelpers.output.cache
 C:\Users\Kristina\desktop\To-Do-List-2.Solution\ToDoList\obj\Debug\netcoreapp2.2\ToDoList.RazorCoreGenerate.cache
 C:\Users\Kristina\desktop\To-Do-List-2.Solution\ToDoList\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
-C:\Users\Kristina\desktop\To-Do-List-2.Solution\ToDoList\obj\Debug\netcoreapp2.2\Razor\Views\Items\CreateForm.g.cshtml.cs
 C:\Users\Kristina\desktop\To-Do-List-2.Solution\ToDoList\obj\Debug\netcoreapp2.2\Razor\Views\Items\DeleteAll.g.cshtml.cs
 C:\Users\Kristina\desktop\To-Do-List-2.Solution\ToDoList\obj\Debug\netcoreapp2.2\Razor\Views\Items\Index.g.cshtml.cs
 C:\Users\Kristina\desktop\To-Do-List-2.Solution\ToDoList\obj\Debug\netcoreapp2.2\ToDoList.RazorTargetAssemblyInfo.cache
@@ -49,3 +48,5 @@ C:\Users\Kristina\desktop\To-Do-List-2.Solution\ToDoList\obj\Debug\netcoreapp2.2
 C:\Users\Kristina\desktop\To-Do-List-2.Solution\ToDoList\obj\Debug\netcoreapp2.2\ToDoList.dll
 C:\Users\Kristina\desktop\To-Do-List-2.Solution\ToDoList\obj\Debug\netcoreapp2.2\ToDoList.pdb
 C:\Users\Kristina\desktop\To-Do-List-2.Solution\ToDoList\obj\Debug\netcoreapp2.2\ToDoList.csproj.CopyComplete
+C:\Users\Kristina\desktop\To-Do-List-2.Solution\ToDoList\obj\Debug\netcoreapp2.2\Razor\Views\Items\New.g.cshtml.cs
+C:\Users\Kristina\desktop\To-Do-List-2.Solution\ToDoList\obj\Debug\netcoreapp2.2\Razor\Views\Items\Show.g.cshtml.cs

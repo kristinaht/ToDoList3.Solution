@@ -2961,6 +2961,11 @@
   "RootNamespace": "ToDoList",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\Kristina\\desktop\\To-Do-List-2.Solution\\ToDoList\\Views\\Items\\Show.cshtml",
+      "TargetPath": "Views\\Items\\Show.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Kristina\\desktop\\To-Do-List-2.Solution\\ToDoList\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
