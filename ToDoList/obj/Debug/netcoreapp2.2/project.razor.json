@@ -2961,8 +2961,18 @@
   "RootNamespace": "ToDoList",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\Kristina\\desktop\\To-Do-List-2.Solution\\ToDoList\\Views\\Categories\\New.cshtml",
+      "TargetPath": "Views\\Categories\\New.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Kristina\\desktop\\To-Do-List-2.Solution\\ToDoList\\Views\\Items\\Show.cshtml",
       "TargetPath": "Views\\Items\\Show.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Kristina\\desktop\\To-Do-List-2.Solution\\ToDoList\\Views\\Categories\\Show.cshtml",
+      "TargetPath": "Views\\Categories\\Show.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -2971,13 +2981,13 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Kristina\\desktop\\To-Do-List-2.Solution\\ToDoList\\Views\\Items\\New.cshtml",
-      "TargetPath": "Views\\Items\\New.cshtml",
+      "FilePath": "c:\\Users\\Kristina\\desktop\\To-Do-List-2.Solution\\ToDoList\\Views\\Categories\\Index.cshtml",
+      "TargetPath": "Views\\Categories\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Kristina\\desktop\\To-Do-List-2.Solution\\ToDoList\\Views\\Items\\Index.cshtml",
-      "TargetPath": "Views\\Items\\Index.cshtml",
+      "FilePath": "c:\\Users\\Kristina\\desktop\\To-Do-List-2.Solution\\ToDoList\\Views\\Items\\New.cshtml",
+      "TargetPath": "Views\\Items\\New.cshtml",
       "FileKind": "mvc"
     },
     {
